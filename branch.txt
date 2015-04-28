@@ -1,1 +1,3 @@
 What is a branch?
+
+A branch is a divergence from the main line of development in order to work on something with out changing the main line until it is ready.
