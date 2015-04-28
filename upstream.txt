@@ -1,1 +1,3 @@
 What is the upstream remote usually used for?
+
+Tracking another branch, when you run `git pull` on a tracking branch Git knows which server to pull from and which branch to merge into.
